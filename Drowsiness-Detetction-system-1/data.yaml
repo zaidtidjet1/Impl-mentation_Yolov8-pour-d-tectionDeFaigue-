@@ -1,0 +1,13 @@
+names:
+- attentif
+- inattentif
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: drowsiness-detetction-system
+  url: https://universe.roboflow.com/hello-iqgto/drowsiness-detetction-system/dataset/1
+  version: 1
+  workspace: hello-iqgto
+test: /content/drive/MyDrive/Attentif_Inattentif_2/Drowsiness-Detetction-system-1/test/images
+train: /content/drive/MyDrive/Attentif_Inattentif_2/Drowsiness-Detetction-system-1/train/images
+val: /content/drive/MyDrive/Attentif_Inattentif_2/Drowsiness-Detetction-system-1/valid/images
